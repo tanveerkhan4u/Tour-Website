@@ -40,7 +40,7 @@ const Footer = () => {
                             <h4 className='text-3xl font-bold text-white'>Get In Touch </h4>
                             <ul className='mt-2'>
                                 +91 6394826676 <br />
-                                travel123@gmail.com <br />
+                                Tour&Travel123@gmail.com <br />
 
                             </ul>
                         </div>
