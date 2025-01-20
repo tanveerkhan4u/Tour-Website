@@ -40,7 +40,7 @@ const Footer = () => {
                             <h4 className='text-3xl font-bold text-white'>Get In Touch </h4>
                             <ul className='mt-2'>
                                 +91 6394826676 <br />
-                                Tour&Travel123@gmail.com <br />
+                                Travel123@gmail.com <br />
 
                             </ul>
                         </div>
@@ -51,7 +51,7 @@ const Footer = () => {
                     <hr />
                 </div>
                 <div className='text-center mt-5'>
-                    <p> Copyright 2024 &copy; Travel.com - All Rights Reserved.</p>
+                    <p> Copyright 2024 &copy; Tour&Travel.com - All Rights Reserved.</p>
                 </div>
 
             </div>
