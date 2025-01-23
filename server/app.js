@@ -12,6 +12,7 @@ const PORT = 5000;
 
 // middleware
 app.use(express.json());
+// changes for deployment
 
 
 app.use(cors());
