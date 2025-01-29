@@ -68,7 +68,7 @@ const Home = () => {
 
       <div className='container  p-4'>
         <div>
-          <h2 className='text-center mb-4 sm:text-md md:text-xl lg:text-4xl ml-5 text-bold'> book with us?</h2>
+          <h2 className='text-center mb-4 sm:text-md md:text-xl lg:text-4xl ml-5 text-bold'>Why book with us?</h2>
         </div>
       </div>
 
