@@ -21,7 +21,7 @@ const Tour6 = ({ setShowModal }) => {
                          </h1>
                        </div>
                      </div>
-                     <div className='container bg-gray-100'>
+                     <div className='container-fluid bg-gray-100'>
                        <h3 className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl ml-4 mb-5'>Description</h3>
                        <p className='text-md sm:text-sm md:text-md lg:text-md xl:text-xl ml-4 text-gray-500'>Santiago, the vibrant capital of Chile, is a dynamic city nestled in a valley surrounded by the majestic Andes Mountains. As the country’s cultural, political, and economic hub, Santiago blends modern skyscrapers with historic colonial architecture, creating a unique skyline. The city's neighborhoods, such as the bohemian Bellavista and upscale Las Condes, offer diverse experiences, from lively street art and trendy cafes to luxury shopping and fine dining. Visitors can explore landmarks like Plaza de Armas, the historic heart of the city, or ascend Cerro San Cristóbal for breathtaking panoramic views. Santiago is also a gateway to Chile’s renowned wine regions, with world-class vineyards just a short drive away. Its vibrant markets, such as La Vega Central, showcase the flavors of Chile, while museums like the Museum of Memory and Human Rights provide insight into the nation’s history. Whether you’re seeking adventure, culture, or culinary delights, Santiago offers an unforgettable experience at the crossroads of tradition and modernity.</p>
                      </div>

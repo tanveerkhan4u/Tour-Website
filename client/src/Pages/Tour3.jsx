@@ -21,7 +21,7 @@ const Tour3 = ({ setShowModal }) => {
           </h1>
         </div>
       </div>
-      <div className='container bg-gray-100'>
+      <div className='container-fluid bg-gray-100'>
         <h3 className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl ml-4 mb-5'>Description</h3>
         <p className='text-md sm:text-sm md:text-md lg:text-md xl:text-xl ml-4 text-gray-500'>It is a thrilling 16-day adventure tour through New Zealand, designed to showcase the country’s stunning landscapes, vibrant culture, and adrenaline-packed activities. Once offered by Contiki, this tour catered to travelers aged 18 to 35, providing an unforgettable journey through iconic destinations. Highlights included exploring the geothermal wonders of Rotorua, experiencing Māori culture through hāngi dinners and dance performances, cruising on Lake Taupo, and hiking the volcanic trails of Tongariro National Park. The tour also featured the bustling arts scene of Wellington, the adventure-packed activities of Queenstown, and the breathtaking Franz Josef Glacier. Accommodation was a mix of hotels, hostels, and lodges, ensuring a comfortable experience, with daily breakfasts and select dinners included. Although the Kiwiana Panorama tour has been rebranded as the New Zealand Panorama, it remains a favorite for those seeking an action-packed exploration of New Zealand's beauty and culture.</p>
       </div>

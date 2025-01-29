@@ -21,7 +21,7 @@ const Tour4 = ({ setShowModal }) => {
                 </h1>
               </div>
             </div>
-            <div className='container bg-gray-100'>
+            <div className='container-fluid bg-gray-100'>
               <h3 className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl ml-4 mb-5'>Description</h3>
               <p className='text-md sm:text-sm md:text-md lg:text-md xl:text-xl ml-4 text-gray-500'>A journey from Anchorage, Alaska, to La Paz, Mexico, offers a remarkable transition from the icy wilderness of the north to the warm beaches of Baja California Sur. Anchorage, surrounded by snow-capped mountains and expansive forests, is a gateway to Alaskan adventures, including glaciers, wildlife, and the northern lights. As you travel south, the landscape changes dramatically, crossing lush forests, arid deserts, and bustling urban hubs. Arriving in La Paz, you’re greeted by the tranquil turquoise waters of the Sea of Cortez, pristine beaches, and vibrant marine life. Known for its laid-back charm, La Paz offers incredible opportunities for snorkeling, kayaking, and whale-watching, making it a perfect escape for nature lovers and adventure seekers alike. This journey is a testament to the incredible diversity of North America, offering unforgettable contrasts in scenery, climate, and culture.</p>
             </div>

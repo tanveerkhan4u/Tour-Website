@@ -28,7 +28,7 @@ const Tour1 = ({ setShowModal }) => {
           </h1>
         </div>
       </div>
-      <div className='container bg-gray-100'>
+      <div className='container-fluid bg-gray-100'>
         <h3 className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl ml-4 mb-5'>Description</h3>
         <p className='text-md sm:text-sm md:text-md lg:text-md xl:text-xl ml-4 text-gray-500'>Singapore is a vibrant, multicultural city known for its stunning architecture, world-class attractions, delicious food, and lush greenery despite being highly urbanized. It’s perfect for families, solo travelers, and even business trips.Singapore, often referred to as the "Lion City," is a dynamic and cosmopolitan destination known for its remarkable blend of modernity and tradition. Despite its small size, this city-state boasts world-class attractions, lush green spaces, and a rich cultural heritage. Iconic landmarks like Marina Bay Sands, Gardens by the Bay, and the Merlion symbolize Singapore's innovative spirit and architectural brilliance. Its multicultural neighborhoods, including Chinatown, Little India, and Kampong Glam, offer a glimpse into the harmonious coexistence of diverse ethnicities. Renowned for its hawker centers, Singapore is a food lover's paradise, serving everything from Hainanese chicken rice to chili crab. With efficient public transport, a reputation for cleanliness, and a warm tropical climate, Singapore provides a seamless travel experience, making it a must-visit destination for tourists from around the globe.</p>
       </div>

@@ -24,7 +24,7 @@ const Tour5 = ({ setShowModal }) => {
                     </h1>
                   </div>
                 </div>
-                <div className='container bg-gray-100'>
+                <div className='container-fluid bg-gray-100'>
                   <h3 className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl ml-4 mb-5'>Description</h3>
                   <p className='text-md sm:text-sm md:text-md lg:text-md xl:text-xl ml-4 text-gray-500'>Los Angeles, often referred to as LA, is a sprawling metropolis in Southern California known for its vibrant culture, entertainment industry, and sunny weather. As the home of Hollywood, it’s the global epicenter of film and television, attracting dreamers and creatives from around the world. Beyond its celebrity allure, LA offers diverse neighborhoods, from the glitz of Beverly Hills and the artistic vibes of Silver Lake to the historic charm of Olvera Street and the beachfront lifestyle of Santa Monica and Venice. Iconic landmarks like the Hollywood Sign, Griffith Observatory, and Getty Center draw millions of visitors annually, while its culinary scene reflects the city's multicultural fabric. Whether exploring its world-class museums, hiking in the nearby mountains, or relaxing on its sun-soaked beaches, Los Angeles offers endless possibilities, making it a dynamic and unforgettable destination.</p>
                 </div>

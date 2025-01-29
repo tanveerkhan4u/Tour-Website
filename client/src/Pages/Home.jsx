@@ -295,7 +295,7 @@ const Home = () => {
       </div>
       <br />
       <div className='py-14 md:py-28 bg-gray-50'>
-        <div className="container">
+        <div className="container-fluid">
           <h1 className='pb-16 tracking-wider text-4xl font-semibold  text-center'>
             Why Choose Us
           </h1>
