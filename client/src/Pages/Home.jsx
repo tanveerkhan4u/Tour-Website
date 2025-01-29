@@ -72,7 +72,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className='container'>
+      <div className='container-fluid'>
 
         <Swiper slidesPerView={4}
           spaceBetween={30}
@@ -146,7 +146,7 @@ const Home = () => {
         <br />
       </div>
 
-      <div className='container bg-[#fffaf9] p-4'>
+      <div className='container-fluid bg-[#fffaf9] p-4'>
         <div>
           <h3 className='text sm:text-sm md:text-xl lg:text-4xl ml-5 text-bold'>Top Destination For Your Next Vacation</h3>
         </div>
@@ -214,7 +214,7 @@ const Home = () => {
       </div>
       <br />
 
-      <div className='container bg-zinc-200 p-4'>
+      <div className='container-fluid bg-zinc-200 p-4'>
         <div className="flex justify-center mt-5 space-x-2 p-4">
           <input
             type="text"
