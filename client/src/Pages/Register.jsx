@@ -11,7 +11,7 @@ const Register = () => {
 
    
 
-  const [passhow, setPassShow] = useState(false);
+  
 
   const [inputdata, setInputdata] = useState({
     fname: "",
@@ -111,10 +111,10 @@ const navigate = useNavigate();
                 
                   <label htmlFor='password'>Password</label>
                   <div className='two'>
-                     <input type={!passhow ? "password" : "text"}  name='password' id='' onChange={handleChange} className='bg-gray-50 border border-gray-300 text-gray-900 rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500' placeholder='Enter Your Password' />
-                     <div className='showpass mt-1' onClick={()=>setPassShow(!passhow)}>
+                     <input type="password"  name='password' id='' onChange={handleChange} className='bg-gray-50 border border-gray-300 text-gray-900 rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500' placeholder='Enter Your Password' />
+                     <div className='showpass mt-1' >
                       
-                      <button className='w-20 text-white bg-blue-600 hover:bg-gray-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium border border-gray-300 rounded-lg p-2.5' >{!passhow ? "Show" : "Hide"}</button>
+                     
                       
                      </div>
                   </div>
